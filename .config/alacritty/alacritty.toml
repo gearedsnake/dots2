@@ -1,0 +1,43 @@
+[env]
+TERM = "xterm-256color"
+
+[colors.primary]
+background = "#101010"
+foreground = "#ffffff"
+dim_foreground = "#000000"
+bright_foreground = "#404040"
+
+[colors.cursor]
+text = "#101010"
+cursor = "#ffffff"
+
+[colors.selection]
+text = "#101010"
+background = "#CF4737"
+
+[colors.normal]
+black = "#000000"
+red = "#CF4737"
+green = "#50fa7b"
+yellow = "#f1fa8c"
+blue = "#89b4fa"
+magenta = "#bd93f9"
+cyan = "#6272a4"
+white = "#f8f8f2"
+
+[colors.bright]
+black = "#404040"
+red = "#CF4737"
+green = "#50fa7b"
+yellow = "#f1fa8c"
+blue = "#89b4fa"
+magenta = "#bd93f9"
+cyan = "#8be9fd"
+white = "#ffffff"
+
+[font]
+normal = { family = "0xProto Nerd Font", style = "Regular" }
+size = 14.0
+
+[window]
+padding = { x = 15, y = 15 }
