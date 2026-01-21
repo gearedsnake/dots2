@@ -29,9 +29,11 @@ this is not clean 2bwm, i fixed some stuff like panel being always on top etc, i
 
 ## scripts
 ```
-yay -S dunst maim pulsemixer
+yay -S dunst maim pulsemixer xclip
 ```
 copy dots2/scripts to ~/scripts
+
+create ~/Pictures/scr for scrfull and scrsel to save images properly or swap out the directory
 
 make sure they are executable
 
