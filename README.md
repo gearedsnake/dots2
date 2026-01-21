@@ -5,7 +5,7 @@
 
 ## full install
 ```
-yay -S alacritty dunst xcb-util-keysyms xcb-util-wm xcb-util-xrm xcb-util git rofi fontconfig freetype2 glibc hicolor-icon-theme imlib2 libexif libx11 libxft lf dragon-drop ctpv-git btop tint2 rifle vim ttf-0xproto-nerd maim pulsemixer
+yay -S alacritty dunst xcb-util-keysyms xcb-util-wm xcb-util-xrm xcb-util git rofi fontconfig freetype2 glibc hicolor-icon-theme imlib2 libexif libx11 libxft lf dragon-drop ctpv-git btop tint2 ranger vim ttf-0xproto-nerd maim pulsemixer
 ```
 
 ## 2bwm
@@ -39,7 +39,7 @@ make sure they are executable
 
 ## lf
 ```
-yay -S lf dragon-drop ctpv-git rifle
+yay -S lf dragon-drop ctpv-git ranger
 ```
 copy dots2/etc/profile.d/stuff.sh to /etc/profile.d/stuff.sh or declare variables from there to your preferred environment, you can also change the values of app variables
 
