@@ -70,7 +70,7 @@ yay -S fontconfig freetype2 glibc hicolor-icon-theme imlib2 libexif libx11 libxf
 ```
 inside dots2/src/nsxiv
 ```
-sudo make clean install
+sudo make install-all
 ```
 
 ## tint2
